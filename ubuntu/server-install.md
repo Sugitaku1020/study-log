@@ -8,7 +8,7 @@
 
 - **CPU**: AMD Ryzen 5 PRO 3400GE with Radeon Vega Graphics
 - **RAM**: 16 GB
-- **SSD**: 128 GB
+- **SSD**: 128 GB(SAMSUNG MZALQ128HBHQ-000L1)
 - **Network**: 有線LAN
 - **PC**: Lenovo ThinkCentre M75q-1
 
