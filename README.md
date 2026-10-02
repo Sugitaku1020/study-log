@@ -17,11 +17,5 @@ Ubuntuのインストール・環境構築について、実際に試した手�
 - [Ubuntu Desktop インストール](ubuntu/desktop-install.md)
 - [Ubuntu Server インストール](ubuntu/server-install.md)
 
-## 目的
-
-実際に行った環境構築や調査内容を記録し、
-<<<<<<< HEAD
-後から手順や得られた知識を確認できるようにすることを目的とする。
-=======
-後から手順や得られた知識を確認できるようにすることを目的とする。
->>>>>>> 8162ada (自宅ネットワークの記録を更新)
+### Protocol
+- [HTTP HTTPS SSH]()
