@@ -24,7 +24,8 @@ base64は64進数を意味し、すべてのデータをアルファベット([a
 #### 導入背景
 かつての電子メールを送るためのプロトコルSMTPではASCIIしかおくることができなかった。MIME(Multipurpose Internet Mail Extensions)という規格が登場し、その中でbase64のデータ変換方法が定められた。
 送信と受信側でMIMEに従ったエンコード、デコードによってメールを通じて画像や音声などの送受信が可能になった。
-[参考](https://qiita.com/PlanetMeron/items/2905e2d0aa7fe46a36d4)
+
+[参考元](https://qiita.com/PlanetMeron/items/2905e2d0aa7fe46a36d4)
 
 ## 2. session認証
 ログイン時に一度だけ、ID/パスワードを検証し、サーバー側にセッション情報を格納する。以降はクライアントの`Cookie`に保存されたセッションIDを毎回送ることで認証する.
